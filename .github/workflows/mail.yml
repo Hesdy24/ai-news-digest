@@ -17,7 +17,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.11'
+        python-version: '3.13'
         
     - name: Install dependencies
       run: |
@@ -31,4 +31,4 @@ jobs:
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         RECIPIENT_1: ${{ secrets.RECIPIENT_1 }}
         RECIPIENT_2: ${{ secrets.RECIPIENT_2 }}
-      run: python send_email.py 
+      run: python send_email.py

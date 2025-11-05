@@ -53,16 +53,36 @@ RSS_FEEDS = {
         },
         {
             "name": "Google AI Blog",
-            "url": "https://ai.googleblog.com/feeds/posts/default",
+            "url": "https://blog.google/technology/ai/feed/",
+            "audience": "audience_1"
+        },
+        {
+            "name": "Search Engine Land",
+            "url": "https://searchengineland.com/feed",
+            "audience": "audience_1"
+        },
+        {
+            "name": "Moz Blog",
+            "url": "https://moz.com/blog/feed",
+            "audience": "audience_1"
+        },
+        {
+            "name": "Ahrefs Blog",
+            "url": "https://ahrefs.com/blog/feed",
+            "audience": "audience_1"
+        },
+        {
+            "name": "SEMrush Blog",
+            "url": "https://www.semrush.com/blog/feed",
+            "audience": "audience_1"
+        },
+        {
+            "name": "Google Search Central Blog",
+            "url": "https://developers.google.com/search/blog/atom.xml",
             "audience": "audience_1"
         }
     ],
     "audience_2": [  # Compliance/Ethics focus
-        {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/feed/",
-            "audience": "audience_2"
-        },
         {
             "name": "AI Policy Exchange",
             "url": "https://aipolicyexchange.org/feed/",
@@ -75,12 +95,22 @@ RSS_FEEDS = {
         },
         {
             "name": "AI Ethics Journal",
-            "url": "https://aiethicsjournal.org/feed/",
+            "url": "https://www.aiethicsjournal.org/feed/",
             "audience": "audience_2"
         },
         {
-            "name": "TechCrunch Privacy",
-            "url": "https://techcrunch.com/tag/privacy/feed/",
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/feed/",
+            "audience": "audience_2"
+        },
+        {
+            "name": "IAPP Privacy",
+            "url": "https://iapp.org/news/rss/",
+            "audience": "audience_2"
+        },
+        {
+            "name": "DataEthiek.info",
+            "url": "https://www.dataethiek.info/nieuws/rss",
             "audience": "audience_2"
         }
     ]
@@ -143,8 +173,15 @@ def scrape_feed(feed_config: Dict[str, str]) -> List[Dict[str, Any]]:
     try:
         logger.info(f"Scraping feed: {feed_config['name']} ({feed_config['url']})")
         
+        # Fetch feed using requests (better SSL handling)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get(feed_config['url'], headers=headers, timeout=10, verify=True)
+        response.raise_for_status()
+        
         # Parse RSS feed
-        feed = feedparser.parse(feed_config['url'])
+        feed = feedparser.parse(response.content)
         
         if feed.bozo:
             logger.warning(f"Feed parsing issues for {feed_config['name']}: {feed.bozo_exception}")

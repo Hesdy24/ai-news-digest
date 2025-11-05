@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from typing import Dict, List, Any
-import openai
+from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -29,8 +29,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Configure OpenAI
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Configure OpenAI client
+openai_client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 # Email configuration
 EMAIL_CONFIG = {
@@ -137,8 +137,8 @@ Schrijf in een professionele maar toegankelijke stijl. Focus op wat relevant is 
 """
     
     try:
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+        response = openai_client.chat.completions.create(
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "Je bent een ervaren nieuws samenvatter die complexe AI-ontwikkelingen toegankelijk maakt voor professionals."},
                 {"role": "user", "content": prompt}
@@ -280,18 +280,30 @@ def main():
     logger.info("Starting AI News Digest email sender")
     
     # Check required environment variables
-    required_vars = ['OPENAI_API_KEY', 'EMAIL_USERNAME', 'EMAIL_PASSWORD', 'RECIPIENT_1', 'RECIPIENT_2']
+    required_vars = ['OPENAI_API_KEY', 'EMAIL_USERNAME', 'EMAIL_PASSWORD', 'RECIPIENT_1']
     missing_vars = [var for var in required_vars if not os.getenv(var)]
     
     if missing_vars:
         logger.error(f"Missing required environment variables: {missing_vars}")
         return
     
+    # Only process audiences that have recipients configured
+    audiences_to_process = []
+    if os.getenv('RECIPIENT_1'):
+        audiences_to_process.append('audience_1')
+    if os.getenv('RECIPIENT_2'):
+        audiences_to_process.append('audience_2')
+    
+    if not audiences_to_process:
+        logger.error("No recipients configured. Please set RECIPIENT_1 or RECIPIENT_2")
+        return
+    
     # Get articles from last week
     articles_by_audience = get_articles_from_last_week()
     
-    # Process each audience
-    for audience, articles in articles_by_audience.items():
+    # Process each audience that has a recipient
+    for audience in audiences_to_process:
+        articles = articles_by_audience.get(audience, [])
         if not articles:
             logger.warning(f"No articles found for {audience}")
             continue
