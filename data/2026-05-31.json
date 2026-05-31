@@ -1,0 +1,642 @@
+[
+  {
+    "title": "74% of Professionals Call AI Essential But Their Companies Lag Behind",
+    "summary": "There's a moment in every technology cycle when a tool stops being a competitive edge and starts becoming essential to work. For AI in B2B marketing, that time has arrived.",
+    "link": "https://www.marketingaiinstitute.com/blog/ai-b2b-marketers-summit-adoption",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T13:48:13"
+  },
+  {
+    "title": "Kevin Roose: The AGI Chronicles [MAICON 2026]",
+    "summary": "Kevin Roose is an award-winning technology columnist for The New York Times and the best-selling author of three books, “Futureproof,” “Young Money,” and “The Unlikely Disciple.” His column, The Shift, examines the intersection of tech, business, and culture.",
+    "link": "https://www.marketingaiinstitute.com/blog/kevin-roose-maicon-2026",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-05-20T17:27:03"
+  },
+  {
+    "title": "Andrew Yang: How AI Can Build a Future that Works for Everyone [MAICON 2026]",
+    "summary": "Every leader trying to navigate AI faces a similar challenge: How to keep pace with a technology moving faster than our institutions, our policies, and our economic framework.",
+    "link": "https://www.marketingaiinstitute.com/blog/maicon-2026-andrew-yang",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-05-07T13:15:00"
+  },
+  {
+    "title": "Karen Hao: Are We Betting on the Wrong AI Narrative? [MAICON 2026]",
+    "summary": "Every marketing and AI leader is being asked to do the same thing right now: scale AI across teams, accelerate adoption, and show measurable results.",
+    "link": "https://www.marketingaiinstitute.com/blog/maicon-2026-karen-hao",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-04-23T14:20:01"
+  },
+  {
+    "title": "A Shortcut to Testing Tools: How Agencies Can Leverage AI to Serve Clients Better",
+    "summary": "New AI tools launch constantly. Most agencies don't have time to test even a fraction of them.",
+    "link": "https://www.marketingaiinstitute.com/blog/using-ai-to-serve-clients",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-01-30T13:30:00"
+  },
+  {
+    "title": "AI Agents for Agencies: Practical Automations That Actually Work (And How You Can Use Them)",
+    "summary": "AI agents aren't magic. They're not autonomous coworkers ready to run your accounts unsupervised. And they're definitely not ready for you to unleash and forget about them.",
+    "link": "https://www.marketingaiinstitute.com/blog/ai-agents-for-agencies",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-01-30T13:30:00"
+  },
+  {
+    "title": "The Legal Questions AI Is Forcing Every Agency to Face",
+    "summary": "AI is creating big opportunities for agencies. It's also creating real legal exposure.",
+    "link": "https://www.marketingaiinstitute.com/blog/ai-brings-legal-questions-for-agencies",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-01-26T13:30:00"
+  },
+  {
+    "title": "A New Report Reveals What Brands Are Saying About Their Agencies",
+    "summary": "Brand leaders are talking about their agencies, and it’s not all flattering.",
+    "link": "https://www.marketingaiinstitute.com/blog/new-report-for-agencies",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-01-26T13:30:00"
+  },
+  {
+    "title": "NotebookLM in Action: 7 Killer Use Cases for Agencies",
+    "summary": "If you lead or work inside an agency, you feel the relentless pace of AI innovation.",
+    "link": "https://www.marketingaiinstitute.com/blog/googles-notebooklm-for-agencies",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-01-21T13:30:00"
+  },
+  {
+    "title": "The AI Innovation Imperative for Agencies: Why Optimization Isn’t Enough Anymore",
+    "summary": "Agencies understand disruption.",
+    "link": "https://www.marketingaiinstitute.com/blog/ai-innovation-for-agencies",
+    "source": "Marketing AI Institute",
+    "audience": "audience_1",
+    "timestamp": "2026-01-21T13:30:00"
+  },
+  {
+    "title": "White-Collar Will Be Fully Automated In 18 Months – So What Makes You Different? via @sejournal, @gregjarboe",
+    "summary": "What makes your content, strategy, or analysis different from what a system could generate? It isn't a skill set, but it's something harder to define. The post White-Collar Will Be Fully Automated In 18 Months – So What Makes You Different? appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/white-collar-will-be-fully-automated-in-18-months-so-what-makes-you-different/575072/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-31T09:30:29"
+  },
+  {
+    "title": "Google’s I/O Demos Reveal The New Business Visibility Problem via @sejournal, @MattGSouthern",
+    "summary": "Many Google I/O demos ended in transactions, bookings, or task completion. The consumer path is clear, but business visibility isn't. The post Google’s I/O Demos Reveal The New Business Visibility Problem appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/googles-i-o-demos-reveal-the-new-business-visibility-problem/576217/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-30T12:00:25"
+  },
+  {
+    "title": "AI Content Alone Won’t Fix Your SEO Rankings (Here’s What Will) via @sejournal, @hethr_campbell",
+    "summary": "Explore the impact of AI content on modern SEO strategies and how it adapts to changing search behaviors and long-tail queries. The post AI Content Alone Won’t Fix Your SEO Rankings (Here’s What Will) appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T22:40:05"
+  },
+  {
+    "title": "Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page via @sejournal, @lorenbaker",
+    "summary": "Understand SERP visibility and why ranking #1 is no longer sufficient for brand impressions and clicks in today's digital landscape. The post Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T21:07:47"
+  },
+  {
+    "title": "Google AI Overview Data Looks Different For Commercial Queries via @sejournal, @MattGSouthern",
+    "summary": "AI Overview tracking can tell very different stories depending on the prompts, query types, and markets included in the sample. The post Google AI Overview Data Looks Different For Commercial Queries appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T19:23:16"
+  },
+  {
+    "title": "Preferred Sources Expand, Gmail Brand Lift, Pichai On AI Overviews via @sejournal, @MattGSouthern",
+    "summary": "Google brings Preferred Sources into AI Overviews and AI Mode, iPullRank measures Gmail's pull on AI Mode brand visibility, and new ad formats arrive. The post Preferred Sources Expand, Gmail Brand Lift, Pichai On AI Overviews appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/seo-pulse-preferred-sources-expand-gmail-brand-lift-pichai-on-ai-overviews/577173/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T12:30:07"
+  },
+  {
+    "title": "How To See If Competitors Are Advertising In Your Customers’ ChatGPT Answers via @sejournal, @trendos_com",
+    "summary": "Learn the manual process to track who is advertising in ChatGPT answers. Understand your competitors' strategies in real-time. The post How To See If Competitors Are Advertising In Your Customers’ ChatGPT Answers appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-28T16:27:33"
+  },
+  {
+    "title": "You’re Using AI At The Execution Layer. The Value Is In The Judgment Layer via @sejournal, @DuaneForrester",
+    "summary": "The six-mode taxonomy maps almost exactly onto the split between execution-layer and judgment-layer work. Most practitioners are living in the execution layer. The post You’re Using AI At The Execution Layer. The Value Is In The Judgment Layer appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-28T13:30:50"
+  },
+  {
+    "title": "The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW",
+    "summary": "Machines writing for machines is a race to the bottom. Here's how to reintroduce human thinking before your brand disappears into the wallpaper. The post The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/ai-convergence-seo/575879/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-28T11:00:19"
+  },
+  {
+    "title": "WordPress Market Share Declines For Six Months In A Row via @sejournal, @martinibuster",
+    "summary": "WordPress is losing market share for six months in a row as competing platforms hold steady or grow more popular. The post WordPress Market Share Declines For Six Months In A Row appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-28T09:18:49"
+  },
+  {
+    "title": "Is Performance Max Actually Better Than Running Separate Campaigns? – Ask A PPC via @sejournal, @brookeosmundson",
+    "summary": "See when Performance Max drives better efficiency and when separate campaigns offer necessary control. The post Is Performance Max Actually Better Than Running Separate Campaigns? – Ask A PPC appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-28T08:00:12"
+  },
+  {
+    "title": "Google Preferred Sources Hit 345K, Expand Into AI Search via @sejournal, @MattGSouthern",
+    "summary": "Google says users have selected 345,000 Preferred Sources, which now appear in AI Overviews and AI Mode alongside new link carousels. The post Google Preferred Sources Hit 345K, Expand Into AI Search appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/google-preferred-sources-hit-345k-expand-into-ai-search/576032/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T21:40:28"
+  },
+  {
+    "title": "YouTube Now Auto-Detects AI Content, Labels It For Viewers via @sejournal, @MattGSouthern",
+    "summary": "YouTube is moving AI disclosure labels to more visible spots and adding automatic detection for undisclosed photorealistic AI content on videos. The post YouTube Now Auto-Detects AI Content, Labels It For Viewers appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/youtube-now-auto-detects-ai-content-labels-it-for-viewers/576015/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T18:08:07"
+  },
+  {
+    "title": "Why Enterprise SEO Recommendations Fail – It’s Psychological, Not Technical via @sejournal, @billhunt",
+    "summary": "Reframing \"problems\" as \"opportunities\" isn't corporate spin. It's the psychological condition that makes enterprise change actually happen. The post Why Enterprise SEO Recommendations Fail – It’s Psychological, Not Technical appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/why-enterprise-seo-recommendations-fail-its-psychological-not-technical/574378/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T13:00:23"
+  },
+  {
+    "title": "Google’s Standards Haven’t Changed But AI Is Making That Harder To Ignore via @sejournal, @gregjarboe",
+    "summary": "Sam Sifton's commitment to human-driven journalism reflects Google's unchanged stance: quality content requires accountability, not just automation. The post Google’s Standards Haven’t Changed But AI Is Making That Harder To Ignore appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/googles-standards-havent-changed-but-ai-is-making-that-harder-to-ignore/575429/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T09:30:43"
+  },
+  {
+    "title": "Core Web Vitals: WordPress And Astro Versus Everyone Else via @sejournal, @martinibuster",
+    "summary": "WordPress and Astro emerge from the latest performance comparison as a contrast between platform complexity and lightweight publishing. The post Core Web Vitals: WordPress And Astro Versus Everyone Else appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/core-web-vitals-wordpress-and-astro/575818/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T09:17:08"
+  },
+  {
+    "title": "Why LLMs Cite Reddit Instead Of Your Brand: A Practical AI Visibility Audit [Webinar] via @sejournal, @lorenbaker",
+    "summary": "Understand the role Reddit plays in AI answers and how brands can capitalize on community signals to enhance visibility. The post Why LLMs Cite Reddit Instead Of Your Brand: A Practical AI Visibility Audit [Webinar] appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/why-llms-cite-reddit-instead-of-your-brand-a-practical-ai-visibility-audit-webinar/575727/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-27T07:45:29"
+  },
+  {
+    "title": "Gmail Content Shows Brand Visibility Boost In AI Mode via @sejournal, @MattGSouthern",
+    "summary": "iPullRank tested Gmail and Photos signals in opted-in AI Mode Personal Intelligence accounts. Gmail showed the strongest brand visibility lift. The post Gmail Content Shows Brand Visibility Boost In AI Mode appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/gmail-content-linked-to-ai-mode-brand-visibility-lift/575917/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-26T23:55:58"
+  },
+  {
+    "title": "Google CEO Admits AI Overviews ‘More Opinionated Than It Should Be via @sejournal, @MattGSouthern",
+    "summary": "Pichai reviewed a live AI Overview and called it \"more opinionated than it should be.\" He also addressed bounce clicks and publisher traffic. The post Google CEO Admits AI Overviews ‘More Opinionated Than It Should Be appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/google-ceo-on-ai-overviews-more-opinionated-than-it-should-be/575902/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-26T19:32:30"
+  },
+  {
+    "title": "Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen via @sejournal, @brookeosmundson",
+    "summary": "Google is moving Display campaigns into Demand Gen, changing how advertisers manage GDN inventory, exclusions, reporting, and campaign controls inside Google Ads. The post Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen appeared first on Search Engine Journal.",
+    "link": "https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/",
+    "source": "Search Engine Journal",
+    "audience": "audience_1",
+    "timestamp": "2026-05-26T19:20:21"
+  },
+  {
+    "title": "Cannibalization",
+    "summary": "In today's episode of Whiteboard Friday, Moz SEO expert Tom Capper walks you through cannibalization: what it is, how to identify it, and how to fix it.",
+    "link": "https://feedpress.me/link/9375/14757949/cannibalization",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-17T07:00:00"
+  },
+  {
+    "title": "Tackling 8,000 Title Tag Rewrites: A Case Study",
+    "summary": "Let's take an in-depth look at Moz.com title tags that were re-written by Google, including three case studies where we managed to fix bad rewrites.",
+    "link": "https://feedpress.me/link/9375/14753388/title-tag-rewrite-case-study",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-16T07:00:00"
+  },
+  {
+    "title": "How Our Website Conversion Strategy Increased Business Inquiries by 37%",
+    "summary": "See how, through several little tweaks to their conversion strategy, the team at Chromatix attracted a higher tier of customers, more inquiries, plus over $780,000 worth of new sales opportunities.",
+    "link": "https://feedpress.me/link/9375/14751225/website-conversion-case-study",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-15T07:00:00"
+  },
+  {
+    "title": "How to Add Products to Your Google My Business Listing, Illustrated",
+    "summary": "Miriam helps you get started in Google My Business Products with this illustrated tutorial, walking you through how to add your most important products and services.",
+    "link": "https://feedpress.me/link/9375/14746944/add-products-to-gmb-listing",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-13T07:00:00"
+  },
+  {
+    "title": "The Three Bosses of SEO",
+    "summary": "In SEO, there are three main “bosses” with different needs: your business, your searchers, and your search engines. How do you answer to all of them?",
+    "link": "https://feedpress.me/link/9375/14742542/three-seo-bosses",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-10T07:00:00"
+  },
+  {
+    "title": "Winning the Page Speed Race: How to Turn Your Clunker of a Website Into a Race Car",
+    "summary": "Winning the page speed race requires the same things as winning a car race: making sure that your vehicle is as lightweight as possible, as powerful as possible, and that you navigate the racetrack as efficiently as possible.",
+    "link": "https://feedpress.me/link/9375/14737629/winning-page-speed",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-08T07:00:00"
+  },
+  {
+    "title": "Responsive Search Ads: 5 Best Practices for Google Ads PPC Search Campaigns",
+    "summary": "These tips will help you optimize your responsive search ads in your Google Ads search campaigns, and increase clicks and conversions.",
+    "link": "https://feedpress.me/link/9375/14735616/5-google-ads-ppc-best-practices",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-07T07:00:00"
+  },
+  {
+    "title": "How to Calculate Your SEO ROI Using Google Analytics",
+    "summary": "Measuring ROI for your SEO efforts involves two factors: KPIs and the cost of your current SEO campaigns. With GA, you can pinpoint where your audience is coming from, set goals to stay on track, and incorporate the most attractive keywords to rank better in search engines.",
+    "link": "https://feedpress.me/link/9375/14733670/calculate-seo-roi-with-google-analytics",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-06T07:00:00"
+  },
+  {
+    "title": "How to Use STAT to Find SEO Opportunities at Scale",
+    "summary": "Today, Cyrus explains how powerful STAT can be when you’re trying to discover SEO opportunities on a massive scale.",
+    "link": "https://feedpress.me/link/9375/14729254/find-seo-opportunities-with-stat",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-03T07:00:00"
+  },
+  {
+    "title": "The Guide to Targeted-Impact Link Building",
+    "summary": "Links drive rankings — that’s one thing that SEOs and marketers can agree on. But which rankings, and for which pages on your website? Use this guide to build links that impact rankings for specific pages on your website.",
+    "link": "https://feedpress.me/link/9375/14723651/targeted-impact-link-building-guide",
+    "source": "Moz Blog",
+    "audience": "audience_1",
+    "timestamp": "2021-09-01T07:00:00"
+  },
+  {
+    "title": "Top Trending Topics (May 2026)",
+    "summary": "They’re the keywords with the highest average search volume increase from our database of 28.7 billion keywords. These topics are trending or trended in the United States: # Topic Search Volume Growth (3m) 1 what time is artemis 2 launching…Read more ›",
+    "link": "https://ahrefs.com/blog/trending-topics/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T05:26:17"
+  },
+  {
+    "title": "100 Most Asked Questions on Google (May 2026)",
+    "summary": "These are the 100 most asked questions on Google, along with their monthly search volumes. # Question Search Volume 1 what is today 3,700,000 2 where’s my refund 1,270,000 3 what is my ip 1,100,000 4 how many days until…Read more ›",
+    "link": "https://ahrefs.com/blog/top-google-questions/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T05:26:17"
+  },
+  {
+    "title": "The 100 Most Searched People on Google (May 2026)",
+    "summary": "These are the 100 most searched people, along with their monthly search volumes. # Person Search Volume 1 sydney sweeney 4,400,000 2 donald trump 3,680,000 3 taylor swift 3,470,000 4 rob reiner 2,900,000 5 sabrina carpenter 2,520,000 6 ozzy osbourne…Read more ›",
+    "link": "https://ahrefs.com/blog/most-searched-people/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T05:26:17"
+  },
+  {
+    "title": "100 Most Expensive Keywords for Google Ads (May 2026)",
+    "summary": "These are the 100 most expensive keywords on Google Ads, along with their monthly search volume and cost per click (CPC). The main reason is due to Google’s ads mechanism: Companies have to outbid each other in order to secure…Read more ›",
+    "link": "https://ahrefs.com/blog/most-expensive-keywords/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T05:26:17"
+  },
+  {
+    "title": "Top Google Searches (May 2026)",
+    "summary": "Below are lists of the top 100 most popular searches and questions in the US and worldwide, pulled from our database of 28.7 billion keywords: # Keyword Search Volume 1 chatgpt 94,610,000 2 youtube 87,790,000 3 amazon 84,320,000 4 gmail…Read more ›",
+    "link": "https://ahrefs.com/blog/top-google-searches/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-29T03:12:07"
+  },
+  {
+    "title": "We Ran an AI Hackathon for Our Content Team. Here’s What We Built with Agent A",
+    "summary": "Some marketer automated their entire workflow. Cut their week to four hours and cloned their voice. Built an agent that drafts, ships, and reports on itself. Maybe whitened their teeth too. Elena Verna, CMO at Lovable, called it out perfectly:…Read more ›",
+    "link": "https://ahrefs.com/blog/agent-a-hackathon/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-25T10:31:55"
+  },
+  {
+    "title": "Agent-To-Agent Marketing Was Just Born on Moltbook",
+    "summary": "More people are asking AI assistants to research products, compare options, and make recommendations for them. And once AI agents become the layer between people and the internet, marketers will not just need to convince you. They will need to…Read more ›",
+    "link": "https://ahrefs.com/blog/agent-to-agent-marketing-born-on-moltbook/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-25T10:29:09"
+  },
+  {
+    "title": "8 Ways to Automate Product Marketing with Agent A",
+    "summary": "Andrei leads product marketing at Ahrefs, with a small team covering copy, webinars, partnerships, and paid promotion for all of Ahrefs (including the dozens of updates we ship each month). Constance works on the product team, running all of our…Read more ›",
+    "link": "https://ahrefs.com/blog/agent-a-for-product-marketing/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-22T11:17:23"
+  },
+  {
+    "title": "How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego",
+    "summary": "After hosting over 600 marketers for our first US conference last October, we’re returning to San Diego in 2026. Same city, bigger stage, and—dare I say it?—an even better agenda. And there’s only one teeny-tiny little thing standing between you…Read more ›",
+    "link": "https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-20T14:00:20"
+  },
+  {
+    "title": "7 Ways to Automate Content Marketing with Agent A",
+    "summary": "Writing formulaic SEO content, updating old articles, reporting on blog performance, even running complicated performance analyses… these are all things Agent A does for me. Here are some of our favorite Agent A use cases for content marketers. Agent A…Read more ›",
+    "link": "https://ahrefs.com/blog/agent-a-for-content-marketing/",
+    "source": "Ahrefs Blog",
+    "audience": "audience_1",
+    "timestamp": "2026-05-19T10:35:14"
+  },
+  {
+    "title": "Why AI applications get stalled in the public sector",
+    "summary": "Why AI applications get stalled in the public sector by Thomas Balbach, Senior Business Analyst, Public Sector, Sopra Steria, and Master of Science in Public Sector Innovation and eGovernance Candidate at KU Leuven, WWU Münster and TalTech. This article is published as part of a joint blog series on AI in Government by AI Policy […]",
+    "link": "https://aipolicyexchange.org/2021/03/11/why-ai-applications-get-stalled-in-the-public-sector/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2021-03-11T15:12:49"
+  },
+  {
+    "title": "Ankhi Das quitting Facebook ironically symptomizes an impaired democracy",
+    "summary": "Ankhi Das quitting Facebook ironically symptomizes an impaired democracy by Raj Shekhar, Founder & Executive Director, AI Policy Exchange Recently, Ankhi Das of Facebook India resigned from the company after nine-long years of service. Earlier in August this year, The Wall Street Journal had reported her refusal to take down communally provocative statements against Muslims made […]",
+    "link": "https://aipolicyexchange.org/2020/12/18/ankhi-das-quitting-facebook-ironically-symptomizes-an-impaired-democracy/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-12-18T06:46:43"
+  },
+  {
+    "title": "9 ways to put AI ethics into practice",
+    "summary": "9 ways to put AI ethics into practice This document is a curated collection of actionable propositions on building and deploying ethical AI, contributed by our affiliate network under the AI Policy Exchange Expert Vlogging Series: How to put AI ethics into practice?, for public appraisal. Edited by Raj Shekhar and Antara Vats Foreword With societal […]",
+    "link": "https://aipolicyexchange.org/2020/11/11/9-ways-to-put-ai-ethics-into-practice/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-11-11T13:56:16"
+  },
+  {
+    "title": "Digitalization and market power",
+    "summary": "Digitalization and market power by Thieß Petersen, Senior Advisor, Global Economic Dynamics Project, Bertelsmann Stiftung, Germany and Lecturer, European University Viadrina The use of digital technologies increases market transparency for consumers and enlarges the relevant market. This strengthens their negotiating position vis-à-vis companies. However, there exists also the risk that large technology companies will develop […]",
+    "link": "https://aipolicyexchange.org/2020/11/01/digitalization-and-market-power/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-11-01T14:20:34"
+  },
+  {
+    "title": "Artificial intelligence and the future of global governance",
+    "summary": "Artificial intelligence and the future of global governance by Jean Garcia Periche, Co-founder and Chief Government Officer, GENIA Latinoamérica; Founder, Global Neo; Fellow, Singularity University, Silicon Valley The biggest lesson we can learn from the current crisis is that our international system is ill-equipped to deal with a global emergency. This pandemic forced us to acknowledge the […]",
+    "link": "https://aipolicyexchange.org/2020/08/07/artificial-intelligence-and-the-future-of-global-governance/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-08-07T15:07:33"
+  },
+  {
+    "title": "The five AI myths to be aware of",
+    "summary": "The five AI myths to be aware of by Anand Tamboli, tech futurist and award-winning author of “Keeping Your AI Under Control: A Pragmatic Guide to Identifying, Evaluating, and Quantifying Risks” (Apress) Technology is often over-hyped but underestimated. Artificial Intelligence couldn’t have been any different from it. There are several stories, which don’t give you the […]",
+    "link": "https://aipolicyexchange.org/2020/07/27/the-five-ai-myths-to-be-aware-of/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-07-27T15:47:39"
+  },
+  {
+    "title": "Your brain on algorithms",
+    "summary": "Your brain on algorithms by Andrew Sears, Founder, Technovirtuism and Advisor, All Tech is Human A quote attributed to the linguist Benjamin Lee Whorf claims that “language shapes the way we think and determines what we can think about.” Whorf, along with his mentor Edward Sapir, argued that a language’s structure influences its speakers’ perception […]",
+    "link": "https://aipolicyexchange.org/2020/07/23/your-brain-on-algorithms/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-07-23T13:57:35"
+  },
+  {
+    "title": "Translating AI ethics principles into action through digital cooperation",
+    "summary": "Translating AI ethics principles into action through digital cooperation by Prateek Sibal, Specialist Consultant on AI at UNESCO and Lecturer in Digital Innovation and Transformation at Sciences Po, Paris As a general-purpose technology, Artificial Intelligence (AI) impacts all spheres of our lives. A recent study on the role of AI in achieving the Sustainable Development Goals […]",
+    "link": "https://aipolicyexchange.org/2020/07/04/translating-ai-ethics-principles-into-action-through-digital-cooperation/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-07-04T18:22:17"
+  },
+  {
+    "title": "Is no privacy the best AI privacy policy?",
+    "summary": "Is not privacy the best AI privacy policy? by James Brusseau, Director, Data Ethics Site, Pace University, New York “You have zero privacy anyway,” Scott McNealy, CEO of Sun Microsystems scolded a concerned journalist in 1999, “Get over it.” He was wrong then. And if he said it again today, he would still be wrong. […]",
+    "link": "https://aipolicyexchange.org/2020/06/26/is-no-privacy-the-best-ai-privacy-policy/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-06-26T05:49:50"
+  },
+  {
+    "title": "Why you should be at the center of machine learning policies, ethics & responsible development",
+    "summary": "Why you should be at the center of machine learning policies, ethics & responsible development by Felipe Castro Quiles, Co-founder and CEO, Emerging Rule and GENIA Latinoamérica By now, most humans have been impacted by artificial intelligence. Elshawi, Maher, and Sakr (2019) say, “Due to the increasing success of machine learning techniques in several application domains, […]",
+    "link": "https://aipolicyexchange.org/2020/05/25/why-you-should-be-at-the-center-of-machine-learning-policies-ethics-responsible-development/",
+    "source": "AI Policy Exchange",
+    "audience": "audience_2",
+    "timestamp": "2020-05-25T06:59:58"
+  },
+  {
+    "title": "No Silver Bullet, But a Silver Lining? PETs and International Data Transfers",
+    "summary": "Is there a role for Privacy Enhancing Technologies (PETs) to play in the context of international data transfers? The answer to this question could be one of the keys to unlock trusted cross-border data flows at scale in the age of AI. This was the topic explored in a session organized by the Future of […]",
+    "link": "https://fpf.org/blog/no-silver-bullet-but-a-silver-lining-pets-and-international-data-transfers/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-29T18:35:03"
+  },
+  {
+    "title": "Career Choice in the AI Age: What Next for Privacy and Data Professionals?",
+    "summary": "When I was in college, privacy existed but the privacy profession did not. Some cynics might say that the reverse is true now, but the reality is more complex: even amidst mounting pressures on individual privacy, there are arguably more privacy protections enshrined into law around the world than ever before. One point, though, is beyond […]",
+    "link": "https://fpf.org/blog/career-choice-in-the-ai-age-what-next-for-privacy-and-data-professionals/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-29T11:43:00"
+  },
+  {
+    "title": "FPF Releases Practitioner Guides on Privacy Enhancing Technologies for Education Stakeholders",
+    "summary": "The Future of Privacy Forum (FPF) has released a suite of practitioner resources on Privacy Enhancing Technologies (PETs) for the education sector. Building on FPF’s 2025 landscape analysis of PETs adoption by State Education Agencies, the new resources move from landscape analysis to implementation considerations — providing audience-specific guidance for the three practitioner communities most […]",
+    "link": "https://fpf.org/blog/fpf-releases-practitioner-guides-on-privacy-enhancing-technologies-for-education-stakeholders/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-28T18:46:38"
+  },
+  {
+    "title": "SB 5 in Five: What to Know About Connecticut’s New AI Law",
+    "summary": "Connecticut’s SB 5 fits a lot of AI obligations into a small bill number. This week, Governor Lamont (D) signed the 39-section bill into law, creating new requirements across several fast-moving areas of AI policy, including companion chatbots, automated employment decision tools (AEDTs), social media, and provenance data. The law also includes provisions related to […]",
+    "link": "https://fpf.org/blog/sb-5-in-five-what-to-know-about-connecticuts-new-ai-law/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-27T17:58:06"
+  },
+  {
+    "title": "Third Time’s the Charm: Connecticut Enacts Annual Privacy Update",
+    "summary": "The Connecticut Data Privacy Act (CTDPA) has been revised multiple times since being enacted in 2022: SB 3 added heightened protections for consumer health data and for minors in 2023; and SB 1295 in 2025 expanded the law’s scope, updated and added consumer rights, modified the data minimization and purpose limitation requirements, prescribed impact assessment […]",
+    "link": "https://fpf.org/blog/third-times-the-charm-connecticut-enacts-annual-privacy-update/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-27T17:56:21"
+  },
+  {
+    "title": "Colorado Revises Its AI Act: What Changed and Why",
+    "summary": "On May 15, Governor Polis signed SB 189, revising the Colorado AI Act (CAIA) after two years of intense negotiations and national debate over the original 2024 law’s approach to AI regulation. The revised law, the Colorado ADM Act (CADMA), reflects a fundamental shift in approach: shifting from an algorithmic discrimination framework to a transparency-focused […]",
+    "link": "https://fpf.org/blog/colorado-revises-its-ai-act-what-changed-and-why/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-19T12:35:12"
+  },
+  {
+    "title": "The EU Commission’s Approach to Age Verification: Mobile Apps, DSA Enforcement, and Challenging National Social Media Bans",
+    "summary": "On 29 April 2026, the European Commission published its Recommendation for a common approach for EU-wide age verification technologies, a non-binding policy document with the aim of harmonizing future measures for the protection of children online. This blog post outlines the Commission’s emerging strategic approach to the implementation of EU-wide age verification measures, provides an […]",
+    "link": "https://fpf.org/blog/the-eu-commissions-approach-to-age-verification-mobile-apps-dsa-enforcement-and-challenging-national-social-media-bans/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-12T16:33:23"
+  },
+  {
+    "title": "Taking stock: The Impact of the India AI Impact Summit 2026",
+    "summary": "India’s hosting of the AI Impact Summit 2026 was an ambitious undertaking. With 600,000 attendees and 92 signatories to the New Delhi Declaration, the Summit was a showcase of a Global South country taking a leading role in shaping the AI governance agenda. The Summit’s official framing centered on infrastructure, compute, and equitable access to […]",
+    "link": "https://fpf.org/blog/taking-stock-the-impact-of-the-india-ai-impact-summit-2026/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-05-05T16:53:49"
+  },
+  {
+    "title": "The New(ish) Architecture of Consumer Health and Artificial Intelligence",
+    "summary": "The rise of AI-powered health tools is prompting new thinking about how, where, and when sensitive health information receives legal protection. According to media reports, consumers are now using general-purpose AI tools to upload or query health information, including medical records, and several companies have recently released large language model (LLM)-based tools customized for consumer […]",
+    "link": "https://fpf.org/blog/the-newish-architecture-of-consumer-health-and-artificial-intelligence/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-04-30T11:06:00"
+  },
+  {
+    "title": "Celebrating Another Year of Privacy and AI Governance: FPF at the 2026 IAPP Global Summit",
+    "summary": "Authored by FPF Communications Intern Celeste Valentino FPF experts participated in the 2026 IAPP Global Summit and hosted FPF privacy executive convenings in Washington, D.C. from March 31 to April 2. As a major gathering for privacy professionals, the event featured a heavy schedule of workshops and panels focused on the intersection of U.S. and […]",
+    "link": "https://fpf.org/blog/celebrating-another-year-of-privacy-and-ai-governance-fpf-at-the-2026-iapp-global-summit/",
+    "source": "Future of Privacy Forum",
+    "audience": "audience_2",
+    "timestamp": "2026-04-29T22:32:16"
+  },
+  {
+    "title": "The Download: unlocking lithium and controlling Ebola",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
+    "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-29T12:10:00"
+  },
+  {
+    "title": "The deadly Ebola outbreak is proving difficult to control",
+    "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+    "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-29T11:19:52"
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-29T10:00:00"
+  },
+  {
+    "title": "How a new extraction process could unlock the world’s lithium",
+    "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones. The research was published today in Science, and a startup called Rock Zero is working to…",
+    "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-28T18:01:00"
+  },
+  {
+    "title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…",
+    "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-28T12:10:00"
+  },
+  {
+    "title": "Climate tech companies are going public. What’s next?",
+    "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day…",
+    "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-28T10:00:00"
+  },
+  {
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…",
+    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-28T09:51:11"
+  },
+  {
+    "title": "The Download: keeping up with AI, and the future of IVF",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+    "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-27T12:10:00"
+  },
+  {
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows. The sticky…",
+    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-26T14:54:10"
+  },
+  {
+    "title": "The Download: puncturing the AI jobs panic",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on…",
+    "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "source": "MIT Technology Review",
+    "audience": "audience_2",
+    "timestamp": "2026-05-26T12:10:00"
+  }
+]
